@@ -70,4 +70,3 @@ This project is currently not licensed. All rights are reserved by the project o
 - [Streamlit](https://streamlit.io/) for the web application framework
 - [Google Generative AI](https://cloud.google.com/ai-platform/training/docs/algorithms/generative-ai) for the summarization model
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) for transcript extraction
-
