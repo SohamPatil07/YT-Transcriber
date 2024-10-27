@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+google-generativeai
+youtube_transcript_api
+reportlab
+gtts
+google-api-python-client
+
+
+
+
